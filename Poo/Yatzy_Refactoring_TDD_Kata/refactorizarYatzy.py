@@ -1,6 +1,7 @@
 class Yatzy:
 
     def chance(dice):
+    	#cambio
         return sum(dice)
 
 
